@@ -1,0 +1,15 @@
+# Distribution / Build
+dist/
+build/
+*.egg-info/
+__pycache__/
+*.pyc
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# IDE settings
+.vscode/
+.idea/

@@ -1,0 +1,6 @@
+Pillow
+numpy
+reedsolo
+setuptools
+wheel
+twine
